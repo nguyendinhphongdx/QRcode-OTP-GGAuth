@@ -1,0 +1,14 @@
+/node_modules
+/data/*
+*.tar
+/mount/rules/*
+*.zip
+*.rar
+/mount/grafana/*
+/mount/onion/*
+*audit.json
+*.log
+/mount/temp/*
+/test/*
+/mount/rule_type/*
+/mount/alerter/*

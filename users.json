@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "user1",
+    "private_key": "C:1xVzn&d*m0Okd4:Wba>1>3vy<s[]R6",
+    "last_otp": 742706
+  },
+  {
+    "id": 2,
+    "name": "user2",
+    "private_key": "AwZRX}iU3TXbzh53R8{qlmlp#aQ%[u;f",
+    "last_otp": null
+  }
+]
